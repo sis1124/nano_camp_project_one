@@ -11,3 +11,5 @@ i want to learn so many things.
 flutter is one of the development tool for mobile app development.
 
 i'll discuse more info about flutter in next repo.
+
+lets get started.
